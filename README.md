@@ -1,2 +1,2 @@
 # firstProject
-A project to explore what github is
+A project to see if previously written code from BlueJay transfers to GitHub
